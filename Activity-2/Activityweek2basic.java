@@ -1,10 +1,9 @@
 class Main {
     public static void main(String[] args) {
-        // Declare two integers
+       
         int num1 = 20;
         int num2 = -6;
 
-        // Apply and print all basic arithmetic operators
         System.out.println("--- Four-Function Calculator ---");
         System.out.println("Addition (+): " + (num1 + num2));
         System.out.println("Subtraction (-): " + (num1 - num2));
