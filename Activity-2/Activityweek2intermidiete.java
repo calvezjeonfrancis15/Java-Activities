@@ -1,10 +1,9 @@
 class Main {
     public static void main(String[] args) {
-        // Declare student grade and absence variables
+       
         double averageGrade = 88.5;
         int absences = 2;
 
-        // Eligibility rule: average >= 75 AND absences <= 3, OR average >= 90 regardless of absences
         boolean hasPassed = (averageGrade >= 75 && absences <= 3) || (averageGrade >= 90);
 
         System.out.println("--- Grade Threshold Checker ---");
