@@ -1,4 +1,4 @@
-lass Main {
+class Main {
     public static void main(String[] args) {
         String inputUser = "admin";
         String inputPass = "secret123";
